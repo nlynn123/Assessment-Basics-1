@@ -1,6 +1,6 @@
 
 
-let password = "iloveBB8!"
+let password = "BB8!"
 let number = /[0-9]/
 let letters = /[a-z]/
 let Uppercaseletters = /[A-Z]/
